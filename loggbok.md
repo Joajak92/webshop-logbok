@@ -23,4 +23,10 @@ Sprint 5:
 Sprint planering där vi körde planning poker för att avgöra svårighet på varje uppgift i product backlog. Vi ansåg inte att något behövde brytas ner i mindre uppgifter. Vi satte även sprintmål för denna sprint.
 
 Jag kodade i gateway-service för att implementera en get metod för /auth/me som vi använder för att hantera jwt token i cookies istället för sessionstorage.
-Jag hjälpte även till att söka information i implementeringen av jwt i cookies för frontend delen tills vi körde fast. Vi avvaktar till 20/10 för att fråga Håkan om hjälp.
+Jag hjälpte även till att söka information i implementeringen av jwt i cookies för frontend delen tills vi körde fast. Vi avvaktar till 20/10 med att fortsätta.
+
+20/10
+
+Daily scrum efter förmiddagslektionen där vi gick igenom gårdagens framsteg och hinder, det vi hade svårt att få ordning på gick vi igenom på förmiddagslektionen så vi nu kunde genomföra det.
+
+Jag kodade i gateway-service och auth-service med att fixa backend delen för /auth/me så vi nu använder cookies för jwt istället för sessionstorage. Samt att vi nu kan sätta roll för skyddade endpoints genom cookies.
