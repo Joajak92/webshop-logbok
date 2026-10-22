@@ -26,7 +26,11 @@ Jag kodade i gateway-service för att implementera en get metod för /auth/me so
 Jag hjälpte även till att söka information i implementeringen av jwt i cookies för frontend delen tills vi körde fast. Vi avvaktar till 20/10 med att fortsätta.
 
 20/10
-
 Daily scrum efter förmiddagslektionen där vi gick igenom gårdagens framsteg och hinder, det vi hade svårt att få ordning på gick vi igenom på förmiddagslektionen så vi nu kunde genomföra det.
 
 Jag kodade i gateway-service och auth-service med att fixa backend delen för /auth/me så vi nu använder cookies för jwt istället för sessionstorage. Samt att vi nu kan sätta roll för skyddade endpoints genom cookies.
+
+21/10
+Daily scrum klockan 10.00 där vi gick igenom vad vi skulle fokusera på under dagen, vilket var testning med msw.
+
+Jag konfiguerade testmiljön för msw och fortsatte sedan att skriva tester för /auth/me och /products och fick hjälp med sökning av information.
